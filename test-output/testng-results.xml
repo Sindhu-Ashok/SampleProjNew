@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Heyyy]]>
+    </line>
+    <line>
+      <![CDATA[Heyy-Heyyy]]>
+    </line>
+    <line>
+      <![CDATA[Heyyy-Heyyy-Heyyy]]>
+    </line>
+    <line>
+      <![CDATA[Byyeee]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-30T17:46:20 IST" name="Suite" finished-at="2022-05-30T17:46:21 IST" duration-ms="915">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T17:46:20 IST" name="Test" finished-at="2022-05-30T17:46:21 IST" duration-ms="915">
+      <class name="SampleProjectTest.SampleprojectTest">
+        <test-method signature="testName()[pri:0, instance:SampleProjectTest.SampleprojectTest@141e879d]" started-at="2022-05-30T17:46:20 IST" name="testName" finished-at="2022-05-30T17:46:21 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Heyyy]]>
+            </line>
+            <line>
+              <![CDATA[Heyy-Heyyy]]>
+            </line>
+            <line>
+              <![CDATA[Heyyy-Heyyy-Heyyy]]>
+            </line>
+            <line>
+              <![CDATA[Byyeee]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testName -->
+      </class> <!-- SampleProjectTest.SampleprojectTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
