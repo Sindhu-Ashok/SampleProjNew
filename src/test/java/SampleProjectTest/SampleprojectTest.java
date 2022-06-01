@@ -4,7 +4,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class SampleprojectTest {
-	branch2
+	//HEYY branch1
 		@Test
 		public void testName() throws Exception 
 		{
